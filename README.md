@@ -638,16 +638,17 @@ you have trained your new model on the new data.
 
 ## Submission
 
-Replace these fields in your copy of this README with your own links and platform choice:
+Submission details for this project:
 
-- **W&B project:** `https://wandb.ai/<username-or-team>/nyc_airbnb`
-- **Source repository platform:** `GitHub` or `Azure Repos`
-- **Source repository:** your actual GitHub repository URL or Azure Repos URL
+- **Repository platform:** GitHub
+- **Repository URL:** https://github.com/dancodermachine/ignore
+- **W&B project:** https://forge.coreweave.com/wandb/dancoder-/nyc_airbnb
 
-Submit the same information in **Submission Details**:
+Enter the same three values in **Submission Details**:
 
-1. Your public W&B `nyc_airbnb` project.
-2. Your selected source repository URL, identified as GitHub or Azure Repos.
+1. Repository platform: GitHub.
+2. Repository URL: https://github.com/dancodermachine/ignore
+3. W&B project: https://forge.coreweave.com/wandb/dancoder-/nyc_airbnb
 
 Make the `nyc_airbnb` W&B project public. A GitHub repository must be accessible to the reviewer as required by the
 classroom. For the Azure ZIP route, the repository URL identifies the source and the ZIP supplies the review evidence;
